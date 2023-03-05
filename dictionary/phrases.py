@@ -8,5 +8,7 @@ phrases=[['find a job','искать работу'],['on time','вовремя']
          ['much more','намного больше'],['so much','так много'],['too much','слишком много'],['talk about','говорить о'],
          ['tell me','сказать мне'],['very hard','очень усердно'],['it looks interesting','это выглядит интересным'],
          ['it seems interesting','это кажется интересным'],['pay for it','платить за это'],['enjoy your meal','приятного аппетита'],
-         ["I'd like to drink a glass of wine","я хотел бы выпить стакан вина" ]]
+         ["I'd like to drink a glass of wine","я хотел бы выпить стакан вина"],['make her happy','делать ее счастливой'],
+         ['write in English','писать по-английски'],['read in Chinese','читать по-китайски'],
+          ['in the United Kingdom','в Соединенном королевстве']]
 
