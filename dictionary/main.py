@@ -83,13 +83,13 @@ def train_word(answer, ch):
             ans_user = lower(input())
             if ans_user == key:
                 count += 1
-                print('Отлично!!! Слово "', upper(word),'"', 'переводится как "', upper(key),'"')
+                print('Отлично!!! Слово "', (word),'"', 'переводится как "', (key),'"')
                 print('Правильных ответов:', count, 'ошибок:', mist)
             else:
                 mist += 1
                 list_error.append(word)
                 list_error.append(key)
-                print('Ошибочка вышла. Слово "', upper(word),'"' ,'переводится как "', upper(key),'"')
+                print('Ошибочка вышла. Слово "', (word),'"' ,'переводится как "', (key),'"')
                 print('Правильных ответов:', count, 'ошибок:', mist)
 
         results(count, mist)
@@ -113,13 +113,13 @@ def train_ph(answer, ch):
             ans_user = lower(input())
             if ans_user == lower(key):
                 count += 1
-                print('Отлично!!! Фраза "', upper(word), '"','переводится как "',upper(key),'"')
+                print('Отлично!!! Фраза "', (word), '"','переводится как "',(key),'"')
                 print('Правильных ответов:', count, 'ошибок:', mist)
             else:
                 list_error.append(word)
                 list_error.append(key)
                 mist += 1
-                print('Ошибочка вышла.Фраза "', upper(word),'"', 'переводится как "', upper(key),'"')
+                print('Ошибочка вышла.Фраза "', (word),'"', 'переводится как "', (key),'"')
                 print('Правильных ответов:', count, 'ошибок:', mist)
 
 
