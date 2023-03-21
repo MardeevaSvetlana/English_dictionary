@@ -60,4 +60,5 @@ words = [['these', 'эти'], ['those', 'те'],
          ['handsome','красивый'],['lucky','везучий'],['tired','устал'],['congratulations','поздравляю'],['regularly','регулярно'],
          ['lost','потерялся'],['nearby','рядом'],['pants','брюки'],[' credentials','данные для входа'],['verify','проверять'],
          ['retry','повторить попытку'],['article','артикль'],['practice','практика'],['kind','добрый'],
-         ['straight ahead','прямо впереди']]
+         ['straight ahead','прямо впереди'],['dicision','решение'],['classical','классическая'],['gym','спортзал'],
+         ['enough','достаточно'],['knowledge','знания']]
