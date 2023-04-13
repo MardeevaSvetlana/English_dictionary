@@ -14,7 +14,7 @@
 #           'это точно случится'],['near this place','рядом с эти местом'],['far from','далеко от'],['listen to music',
 #           'слушать музыку'],['less than','меньше, чем'],['solve a problem','решать проблему'],['from time to time','время от времени'],
 #           ['so sad','так грустно'],['sense of humor','чувство юмора'],['as soon as possible','как можно скорее']]
-phrases=[['find a job','искать работу'],['on time','вовремя'],['one more time','еще один раз'],
+phrases=[['find a job','найти работу'],['on time','вовремя'],['one more time','еще один раз'],
         ['have a rest','отдыхать'],['at home','дома'],['go to the park','ходить в парк'],
          ['the same','то же самое'],
          ['come to work','приходить на работу'],['right now','прямо сейчас'],
@@ -28,4 +28,11 @@ phrases=[['find a job','искать работу'],['on time','вовремя']
           ['in the United Kingdom','в Соединенном королевстве'],['spicy food','острая пища'],['it is certain to happen',
           'это точно случится'],['near this place','рядом с эти местом'],['far from','далеко от'],['listen to music',
           'слушать музыку'],['less than','меньше, чем'],['solve a problem','решать проблему'],['from time to time','время от времени'],
-          ['so sad','так грустно'],['sense of humor','чувство юмора'],['as soon as possible','как можно скорее']]
+          ['so sad','так грустно'],['sense of humor','чувство юмора'],['as soon as possible','как можно скорее'],
+        ['look for a job','искать работу'],['listen to the radio','слушать радио'],['know all the truth','знать всю правду'],
+         ['believe in God','верить в Бога'],['this result depends on you','этот результат зависит от тебя'],['get to work',
+       'добираться на работу'],['what time do you get up?','в какое время ты встаешь?'],['leave home','покинуть дом'],
+         ['How long does it take you to get to work','как долго занимает у тебя добраться до работы?'],['with great pleasure',
+         'с большим удовольствием'],['share his point of view','разделять его точку зрения'],["let's speak/ talk about it","давай поговорим об этом"],
+         ['high level','высокий уровень'],[' in the world',' в мире'],["it's obvious","это очевидно" ],["i'm ready", "я готов"],
+          ["it's worse "," это хуже"],['low level','низкий уровень'],['high level','высокий уровень']]
