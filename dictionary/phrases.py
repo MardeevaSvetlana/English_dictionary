@@ -1,4 +1,5 @@
 """Устойчивые выражения"""
+
 # phrases=[['find a job','искать работу'],['on time','вовремя'],['one more time','еще один раз'],['make mistakes','делать ошибки'],
 #         ['have a rest','отдыхать'],['at home','дома'],['go to the park','ходить в парк'],['miss you','скучать по тебе'],
 #          ['play computer game','играть в компьютерную игру'],['all the documents','все документы'],['the same','то же самое'],
@@ -19,6 +20,7 @@ phrases=[['find a job','найти работу'],['on time','вовремя'],[
          ['the same','то же самое'],
          ['come to work','приходить на работу'],['right now','прямо сейчас'],
 
+
          ['you are welcome','пожалуйста'],['much less','намного меньше'],
          ['much more','намного больше'],['so much','так много'],['too much','слишком много'],['talk about','говорить о'],
          ['tell me','сказать мне'],
@@ -35,4 +37,10 @@ phrases=[['find a job','найти работу'],['on time','вовремя'],[
          ['How long does it take you to get to work','как долго занимает у тебя добраться до работы?'],['with great pleasure',
          'с большим удовольствием'],['share his point of view','разделять его точку зрения'],["let's speak/ talk about it","давай поговорим об этом"],
          ['high level','высокий уровень'],[' in the world',' в мире'],["it's obvious","это очевидно" ],["i'm ready", "я готов"],
-          ["it's worse "," это хуже"],['low level','низкий уровень'],['high level','высокий уровень']]
+          ["it's worse "," это хуже"],['low level','низкий уровень'],['high level','высокий уровень'],['wonderful feeling',
+        'прекрасное чувство'],['to be away','быть в отъезде'],['stay at home','остаться дома'],['arrive at the airport','прибыть в аэропорт'],
+         ['next time','в следующий раз'],['go to bed','пойти спать'],['stay at the hotel','расположиться в отеле'],['talk on the phone',
+         'говорить по телефону'],['only later','только позже'],['it changed my life','это изменило мою жизнь'],['much better',
+        'намного лучше']]
+
+
