@@ -72,16 +72,16 @@ words= [
          ["it's impossible","это невозможно"],["it's worse","это хуже"],["it's cold","холодно"],["it's warm","тепло"],
          ["it's hot"," жарко"],["it's rainy","дождливо"],["it's sunny","солнечно"],["it's dark","темно"],['young','молодой'],
          ['clever','умный'],['talented','талантливый'],['wise','мудрый'],["it's windy",'ветренно'],
-         ['popular','популярно'],['talented','талантливый'],['clever','умный'],['hard-working','трудолюбивый'],['ineffective',
+         ['popular','популярно'],['clever','умный'],['hard-working','трудолюбивый'],['ineffective',
          'неэффективно'],['take','брать'],['nurse','медсестра'],['wrong','неправильный'],['single','холост'],['nearest','ближайший'],
-         ['soon','скоро'],['wait for ','ждать'],['lose','проиграть'],['choice','выбор'],['join','присоединиться'],['send','отправить'],
+         ['soon','скоро'],['lose','проиграть'],['choice','выбор'],['join','присоединиться'],['send','отправить'],
         ['wake up','просыпаться'],['will last','будет продолжаться'],['communicate','общаться'],['choose','выбрать'],['look at','смотреть на'],
        ['accident','происшествие'],['area','район'],['the day before yesterday','позавчера'],['island','остров'],['angry','злой'],
        ['in the beginning','в начале'],['especially','особенно'],['turn back','вернуться'],['laugh','смеяться'],['stopped suddenly',
         'остановился внезапно'],['wait for','ждать кого- то'],['move to','переехать в'],['conversation','разговор'],['each other','друг друга'],
         ['quietly','тихо'],
          ['immediately','немедленно'],['speech','речь'],['dangerous','опасный'],['at once','сразу же'],['at last','наконец'],['afraid of',
-         'бояться']]
+         'бояться'],['chair','стул'],['break down','ломаться'],['bridge','мост'],['polite','вежливый']]
 
 
 

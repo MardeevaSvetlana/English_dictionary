@@ -40,6 +40,6 @@ phrases=[['find a job','найти работу'],['on time','вовремя'],[
         'прекрасное чувство'],['to be away','быть в отъезде'],['stay at home','остаться дома'],['arrive at the airport','прибыть в аэропорт'],
          ['next time','в следующий раз'],['go to bed','пойти спать'],['stay at the hotel','расположиться в отеле'],['talk on the phone',
          'говорить по телефону'],['only later','только позже'],['it changed my life','это изменило мою жизнь'],['much better',
-        'намного лучше']]
+        'намного лучше'],['ran away from the police','убежал от полиции']]
 
 
