@@ -81,7 +81,8 @@ words= [
         'остановился внезапно'],['wait for','ждать кого- то'],['move to','переехать в'],['conversation','разговор'],['each other','друг друга'],
         ['quietly','тихо'],
          ['immediately','немедленно'],['speech','речь'],['dangerous','опасный'],['at once','сразу же'],['at last','наконец'],['afraid of',
-         'бояться'],['chair','стул'],['break down','ломаться'],['bridge','мост'],['polite','вежливый']]
+         'бояться'],['chair','стул'],['break down','ломаться'],['bridge','мост'],['polite','вежливый'],['at first','сначала'],
+        ['seriously','всерьез']]
 
 
 
